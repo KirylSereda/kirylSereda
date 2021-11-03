@@ -10,7 +10,7 @@
 **LinkedIn: https://www.linkedin.com/in/kiryl-sereda-275446213/**  
 
 ## About me:  
-  I want to be a part professional team, where I can grow and learn new. The team in which I can fully realize myself and my skills. I am learning HTML, CSS, JS, and JS frameworks. I take responsibility for my obligations and the tasks set before me. I am a sociable and disciplined person
+  I want to be a part of professional team, where I can grow and learn new. The team in which I can fully realize myself and my skills. I am learning HTML, CSS, JS, and JS frameworks. I take responsibility for my obligations and the tasks set before me. I am a sociable and disciplined person
 
 ## Languages and Technologies with which I worked:
 
