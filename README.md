@@ -24,5 +24,4 @@
 ![Figma](https://img.shields.io/badge/-Figma-555555?style=for-the-badge&logo=Figma&logoColor=0ac97f)
 ![VSCode](https://img.shields.io/badge/-VSCode-555555?style=for-the-badge&logo=VisualStudioCode&logoColor=0187cd)
 <br><br>
-
-
+![](https://komarev.com/ghpvc/?username=KirylSereda)
